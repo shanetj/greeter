@@ -35,6 +35,8 @@ class Customer
   end
 end
 
+#My changes. Just testing it out. 
+
 #my_greeter = Greeter.new ARGV.first
 #name = ARGV.first
 #my_greeter.hello
